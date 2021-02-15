@@ -29,7 +29,7 @@ class PictureBook extends Book {
 	}
 }
 
-// (C) Complete the BookListing class below. Your implementation should conform to the examples.
+// (c) Complete the BookListing class below. Your implementation should conform to the examples.
 // Assume that class PictureBook works as intended, regardless of what you wrote in part (a).
 class BookListing {
 	Book BookObject;
